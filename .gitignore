@@ -1,0 +1,14 @@
+# add any folders, files and file types (e.g., *.xlsx) that you don't want Git to track
+**/__pycache__/
+tests/test_outputs/*
+input/*
+output/*
+.vs
+.venv/
+*.csv
+*.xlsx
+*.xls
+*.xlsm
+*.parquet
+**/outputs.json
+tests/configs/*
